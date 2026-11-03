@@ -1,0 +1,342 @@
+{
+  "heading": "G9NL_Different Text Structures(MCQs)",
+  "topics": [
+    {
+      "heading": "Different Text Structures",
+      "questions": [
+  
+ 
+  {
+    "questionNo": 1,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Read passage no. 2. Which text structure does it use?"
+    ],
+    "options": [
+      {
+        "text": "Compare and Contrast"
+      },
+      {
+        "text": "Cause and Effect"
+      },
+      {
+        "text": "Problem and Solution"
+      },
+      {
+        "text": "The passage uses no recognisable structure"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "What is the main cause presented in passage no. 2?"
+    ],
+    "options": [
+      {
+        "text": "Journeys lengthening from twenty-eight minutes to over fifty"
+      },
+      {
+        "text": "Drivers stopping to wait for clearance each time a signal changed"
+      },
+      {
+        "text": "Signals switching to red without any train being present"
+      },
+      {
+        "text": "A digital signal system installed after testing only on straight track"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 3,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Which of the following is the primary effect described in passage no. 3?"
+    ],
+    "options": [
+      {
+        "text": "Passengers missing their connections at the city terminus"
+      },
+      {
+        "text": "Season ticket sales falling by nineteen per cent within a year"
+      },
+      {
+        "text": "Two morning services being withdrawn to save money"
+      },
+      {
+        "text": "Overcrowding worsening on the remaining services"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Read passages no. 2 and 3 together. Which pattern of cause and effect do they follow?"
+    ],
+    "options": [
+      {
+        "text": "A single cause producing one single effect"
+      },
+      {
+        "text": "Several separate causes producing one shared effect"
+      },
+      {
+        "text": "A chain, in which each effect becomes the cause of the next"
+      },
+      {
+        "text": "A series of effects for which no cause is ever given"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Read passage no. 4. What problem is being discussed?"
+    ],
+    "options": [
+      {
+        "text": "Reliability must be restored quickly, yet the forty million pounds a full replacement needs cannot be raised"
+      },
+      {
+        "text": "The regulator has warned that the operating licence will be reviewed next year"
+      },
+      {
+        "text": "Borrowing rates are currently too high for most companies"
+      },
+      {
+        "text": "A large number of passengers have already left the line"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Read passage no. 5. What solution does the operator adopt?"
+    ],
+    "options": [
+      {
+        "text": "Replacing the entire digital signal network across the line"
+      },
+      {
+        "text": "Withdrawing further services in order to reduce costs"
+      },
+      {
+        "text": "Rewriting the software governing the tunnel curve alone, at a cost of two million pounds"
+      },
+      {
+        "text": "Reducing journey times to thirty-four minutes"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Does passage no. 5 present a complete and permanent solution?"
+    ],
+    "options": [
+      {
+        "text": "Yes, because false red signals have fallen by eighty-four per cent at that location"
+      },
+      {
+        "text": "Yes, because journey times have shortened to thirty-four minutes"
+      },
+      {
+        "text": "No, because the passage never explains what the engineers actually did"
+      },
+      {
+        "text": "No, because three other curves remain unmodified and the regulator has not confirmed the review outcome"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 8,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Read passage no. 6. Which two subjects are being compared?"
+    ],
+    "options": [
+      {
+        "text": "Full system replacement and partial software rewriting"
+      },
+      {
+        "text": "The Ashfield Line and other operators facing similar faults"
+      },
+      {
+        "text": "Cost and the length of time a repair lasts"
+      },
+      {
+        "text": "The tunnel curve and the three remaining curves"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Does passage no. 6 compare or contrast the two strategies, and how do we know?"
+    ],
+    "options": [
+      {
+        "text": "Mainly comparing, because both approaches restore safe running"
+      },
+      {
+        "text": "Mainly contrasting, because most of the passage sets differences in cost, repetition and funding against each other using \"on the other hand\" and \"unlike\""
+      },
+      {
+        "text": "Mainly comparing, because other operators have adopted both"
+      },
+      {
+        "text": "Neither, because the passage contains no signal words at all"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "story": "<b>\"The Ashfield Line\"</b><br><br><b>Passage 1</b><br>The Ashfield Line has carried passengers between the town and the city since 1954. For most of that time it ran four trains an hour, and the platform clock at Ashfield station was wound by hand every Monday morning by the same stationmaster for thirty-one years. The waiting room still has its original wooden benches. Around nine thousand people use the line each week, and the timetable board at the entrance has not been replaced since the station was refurbished in 1988.<br><br><b>Passage 2</b><br>In 2016 the operator replaced the line's ageing signal system with a digital network. Because the new software had been tested only on straight track, it struggled with the tight curve outside Ashfield tunnel. As a result, signals began switching to red without any train being present. Drivers were instructed to stop and wait for clearance each time this happened, and consequently a journey that had once taken twenty-eight minutes now regularly took over fifty.<br><br><b>Passage 3</b><br>These delays led to problems the operator had not foreseen. Passengers began missing connections at the city terminus, which caused complaints to rise from twelve a month to over four hundred. Season ticket sales fell by nineteen per cent within a year, resulting in reduced income for the operator. Two morning services were withdrawn to save money, and the loss of those trains made overcrowding on the remaining services considerably worse than before.<br><br><b>Passage 4</b><br>The operator now faces a genuine difficulty. Replacing the digital system entirely would cost an estimated forty million pounds, a sum the company does not have and cannot borrow at current rates. Yet leaving the faulty signals in place risks losing the remaining passengers altogether, and the regulator has warned that the line's operating licence will be reviewed next year. The challenge is to restore reliability quickly, without the money that a full replacement would require.<br><br><b>Passage 5</b><br>In 2024 the operator resolved on a partial answer. Engineers rewrote the software governing the tunnel curve alone, leaving the rest of the network untouched, at a cost of two million pounds. False red signals at that location have since fallen by eighty-four per cent, and journey times have shortened to thirty-four minutes. Nevertheless, three other curves on the line remain unmodified, and the regulator has not yet confirmed whether this will satisfy next year's review.<br><br><b>Passage 6</b><br>Two repair strategies were weighed before the decision. A full system replacement fixes every fault at once and needs no further work for twenty years. Partial rewriting, on the other hand, costs a fraction of that sum but must be repeated curve by curve as problems appear. Both approaches restore safe running, and both have been adopted by other operators facing similar faults. Unlike full replacement, however, partial rewriting can be funded from existing budgets without new borrowing.",
+    "question": [
+      "Which set of signal words would help us identify the structure used in passage no. 6?"
+    ],
+    "options": [
+      {
+        "text": "because of, due to, as a result of, consequently"
+      },
+      {
+        "text": "difficulty, challenge, resolved on, answer"
+      },
+      {
+        "text": "unlike, on the other hand, however, both"
+      },
+      {
+        "text": "first, next, then, finally"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Complete the following sentence using the correct word:<br><b><i>After missing several meals during the long journey, the hikers became increasingly ______ and eagerly searched for a place to eat.</i></b>"
+    ],
+    "options": [
+      {
+        "text": "futurity"
+      },
+      {
+        "text": "esurient"
+      },
+      {
+        "text": "emanated"
+      },
+      {
+        "text": "mangled"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "What is the meaning of the word mangled?"
+    ],
+    "options": [
+      {
+        "text": "Extremely hungry or eager for food"
+      },
+      {
+        "text": "Existing or occurring in the future"
+      },
+      {
+        "text": "Badly damaged, distorted, or ruined"
+      },
+      {
+        "text": "Coming or spreading outward from a source"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Complete the following sentence using the correct word:<br><b><i>A strange fragrance ______ from the garden after the rain, filling the entire courtyard with its sweet scent.</i></b>"
+    ],
+    "options": [
+      {
+        "text": "egoist"
+      },
+      {
+        "text": "futurity"
+      },
+      {
+        "text": "emanated"
+      },
+      {
+        "text": "esurient"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "What is the meaning of futurity?"
+    ],
+    "options": [
+      {
+        "text": "The condition or quality of being concerned primarily with oneself"
+      },
+      {
+        "text": "A state of extreme hunger"
+      },
+      {
+        "text": "A future time or what belongs to the future"
+      },
+      {
+        "text": "Something that has been severely damaged"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "Which sentence uses egotist and egoist most accurately?"
+    ],
+    "options": [
+      {
+        "text": "The esurient and egoist student complained that the damaged equipment had emanated from the laboratory."
+      },
+      {
+        "text": "The egotist constantly boasted about his achievements, while the egoist consistently placed his own interests before those of others."
+      },
+      {
+        "text": "The egotist was extremely hungry, while the egoist described the future as futurity."
+      },
+      {
+        "text": "The egoist was badly damaged, while the egotist eagerly searched for food."
+      }
+    ],
+    "answer": 1
+  }
+
+
+
+]
+
+
+    }
+  ]
+}
